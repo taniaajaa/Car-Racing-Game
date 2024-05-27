@@ -1,0 +1,45 @@
+body {
+background-image:url('background3.jpg');
+}
+
+p {
+    font-size: 14pt; 
+}
+
+div class {color:white;}
+.judul-tengah {
+    text-align: center;
+    font-family: Georgia, serif; 
+    background-color: rgba(245, 245, 220); 
+    padding: 20px;
+}
+
+.judul-tengah h1 {
+    font-size: 30px;
+    color: #D2691E;
+}
+
+.judul-tengah p {
+    font-size: 18px;
+    color: #8B4513;
+}
+
+
+img {
+  width: 700px;
+  height: 800px;
+}
+
+ol {color: brown;text-align:center;}
+ol {font-size: 20px;}
+iframe {border:1;display:block;margin:auto;}
+
+p {color: brown;text-align:center;}
+ol {font-size: 20px;}
+
+nav ul {list-style-type:none;}
+nav ul li {display:inline;}
+p {text-align: center;}
+ul {list-style-type: none; background: linear-gradient(#503bb0);}
+ul li {display: inline;padding: 170px;color:} {
+
